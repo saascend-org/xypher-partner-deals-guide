@@ -1,0 +1,6 @@
+# Plaintext sources contain client data - never commit them.
+build/guide.html
+build/img/
+build/index.plain.html
+*.bak
+.DS_Store
